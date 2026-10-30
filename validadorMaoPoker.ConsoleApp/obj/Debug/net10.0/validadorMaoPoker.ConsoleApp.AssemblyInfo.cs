@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("validadorMaoPoker.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+231969d9d6a1580b0a3c10ddfd0770f17cc421f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("validadorMaoPoker.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("validadorMaoPoker.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

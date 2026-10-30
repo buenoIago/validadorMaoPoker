@@ -2,6 +2,10 @@
 
 public class CartasPoker
 {
+    public string Valor {get; set;} = string.Empty;
+    public string Naipe{get; set;} = string.Empty;
+    public string Simbolo {get; set;} = string.Empty;
+
     public List<string> simboloCartas =[
         "2O", "2C", "2E", "2P",
         "3O", "3C", "3E", "3P", 
@@ -29,5 +33,10 @@ public class CartasPoker
         }
 
         return "Carta Inválida";
+    }
+
+    public string ValidarValorCarta(string carta, string valor)
+    {
+        
     }
 }
